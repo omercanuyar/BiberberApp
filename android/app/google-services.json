@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "4504492892",
+    "project_id": "biberberapp-ea2bd",
+    "storage_bucket": "biberberapp-ea2bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4504492892:android:4b198fd5de59ac92be3f99",
+        "android_client_info": {
+          "package_name": "com.example.biberberapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4504492892-7vshpeinn7nokdi784thjn5kgtc3fk73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLKBeuJ0BJbSKjV5eYhKQl_tyGTDGwPBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4504492892-7vshpeinn7nokdi784thjn5kgtc3fk73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
