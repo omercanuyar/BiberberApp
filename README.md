@@ -26,27 +26,27 @@ samples, guidance on mobile development, and a full API reference.
 
 The project opens with the login page.
 <p align="center">
-  <img src="https://github.com/omercanuyar/BiberberApp/images/login.png">
+  <img src="https://github.com/omercanuyar/BiberberApp/blob/main/images/login.png">
 </p>
 
 There is also a registration page where you can register.
 <p align="center">
-  <img src="https://github.com/omercanuyar/BiberberApp/images/signUp.png">
+  <img src="https://github.com/omercanuyar/BiberberApp/blob/main/images/signUp.png">
 </p>
 
 After logging in, the homepage opens. On the homepage, there are cards that you can see by clicking on the map or the barber list.
 <p align="center">
-  <img src="https://github.com/omercanuyar/BiberberApp/images/Home.png">
+  <img src="https://github.com/omercanuyar/BiberberApp/blob/main/images/Home.png">
 </p>
 
 There is a list of hairdressers in which Male, Female and Unisex hairdressers form tabs. In addition, with the hairdresser you click, a map page opens with its location on the map.
 <p align="center">
-  <img src="https://github.com/omercanuyar/BiberberApp/images/kuaforList.png">
-  <img src="https://github.com/omercanuyar/BiberberApp/images/clickKuafor.png">
+  <img src="https://github.com/omercanuyar/BiberberApp/blob/main/images/kuaforList.png">
+  <img src="https://github.com/omercanuyar/BiberberApp/blob/main/images/clickKuafor.png">
 </p>
 
 There is a map page on the map showing the location of the last barber shown on the map.
 <p align="center">
-  <img src="https://github.com/omercanuyar/BiberberApp/images/mapPage.png">
+  <img src="https://github.com/omercanuyar/BiberberApp/blob/main/images/mapPage.png">
 </p>
 
