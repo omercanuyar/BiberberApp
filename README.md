@@ -36,7 +36,7 @@ There is also a registration page where you can register.
 
 After logging in, the homepage opens. On the homepage, there are cards that you can see by clicking on the map or the barber list.
 <p align="center">
-  <img src="https://github.com/omercanuyar/BiberberApp/blob/main/images/Home.png">
+  <img src="https://github.com/omercanuyar/BiberberApp/blob/main/images/home.png">
 </p>
 
 There is a list of hairdressers in which Male, Female and Unisex hairdressers form tabs. In addition, with the hairdresser you click, a map page opens with its location on the map.
